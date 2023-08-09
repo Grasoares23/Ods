@@ -1,0 +1,64 @@
+ body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+
+ }
+
+.background{
+    background-image: url(./imagem/pexels-yan-krukau-7155353.jpg); 
+    height: 600px;
+    width: auto;
+    background-size: cover;
+    background-position: right center;
+    padding: 30px;
+}
+
+.titulo1, subtitulo{
+ text-align: center;
+ font-size: 40px;
+ padding-bottom: 20px;
+}
+
+.main{
+    background-color:rgb(242, 235, 235);
+    font-size: 20px;
+    padding: 20px;
+    padding-top: 70px;
+   
+    
+}
+
+
+.overall_list{
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: hidden;
+    background-color:rgb(164, 49, 49);
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+
+p{
+   text-align: center;
+   background-color:rgb(242, 235, 235);
+    background-size: cover;
+  
+ padding: 30px;
+    font-size: small;
+   margin-top: 0%; 
+}  
+    
+
+
+
+
+
+   
